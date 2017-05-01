@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="Standard Assets Example Project.Plugins.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\GoogleVR\Scripts\Video\GvrVideoPlayerTexture.cs">
+    <Files>
+      <File FileName="Assets\GoogleVR\Scripts\Video\GvrVideoPlayerTexture.cs" Line="611" Column="55" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
